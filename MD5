@@ -1,0 +1,12 @@
+8da59b5ef608f48ea02277a63e1194fe *DESCRIPTION
+2816af7b6408eb4ce1cb0491c8ca7dea *NAMESPACE
+a504ddc4d687eb71ff3940d7db2f2f45 *R/pmApi2df.R
+d8a191bdf070ca6a52995624459dad81 *R/pmApiRequest.R
+d97f499b48cdd8e2370642eeebe5c527 *R/pmQueryTotalCount.R
+08f82782be415e33a7b25147e05fba0f *build/vignette.rds
+796b50d370bb6775478c82b29e202679 *inst/doc/A_Brief_Example.Rmd
+f08b8128625a988e8e3e4561ac6ba305 *inst/doc/A_Brief_Example.html
+291fc412f5dffbf6e1ac06ddd8bebeb2 *man/pmApi2df.Rd
+d134548bca1d566fd34441f6c2ba3dbf *man/pmApiRequest.Rd
+0227dc2a2c80259d644ce38c9c608b61 *man/pmQueryTotalCount.Rd
+796b50d370bb6775478c82b29e202679 *vignettes/A_Brief_Example.Rmd
