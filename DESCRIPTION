@@ -1,7 +1,7 @@
 Package: pubmedR
 Title: Gathering Metadata About Publications, Grants, Clinical Trials
         from 'PubMed' Database
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     person(given = "Massimo",
            family = "Aria",
@@ -16,11 +16,11 @@ Encoding: UTF-8
 LazyData: true
 Imports: rentrez, XML
 Suggests: bibliometrix, knitr, rmarkdown
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.0
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-04-03 06:27:03 UTC; massi
+Packaged: 2020-07-09 10:40:28 UTC; massimoaria
 Author: Massimo Aria [aut, cre] (<https://orcid.org/0000-0002-8517-9411>)
 Maintainer: Massimo Aria <massimo.aria@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-04-03 06:50:02 UTC
+Date/Publication: 2020-07-09 11:00:02 UTC
